@@ -17,9 +17,8 @@ This project demonstrates the use of **YOLO11** for object detection and **SAM2*
 - Visualized and evaluated segmentation output
 
 📊 Key Deliverables
-- [Colab Notebook](#) (https://colab.research.google.com/drive/12RmCf1ABh4evRM0wy6zuDtK6M-X6afUd?usp=sharing)
-- [YouTube Video Demonstration](#) (insert link)
-- [Report PDF](CB-M1-ARCH-DEMO-DEMO.pdf)
+- Colab Notebook (https://colab.research.google.com/drive/12RmCf1ABh4evRM0wy6zuDtK6M-X6afUd?usp=sharing)
+- YouTube Video Demonstration (https://studio.youtube.com/video/dfTLfJbnRec/edit)
 
  ✅ How to Run
 ```bash
