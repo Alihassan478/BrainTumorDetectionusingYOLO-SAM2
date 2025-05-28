@@ -18,7 +18,7 @@ This project demonstrates the use of **YOLO11** for object detection and **SAM2*
 
 📊 Key Deliverables
 - Colab Notebook (https://colab.research.google.com/drive/12RmCf1ABh4evRM0wy6zuDtK6M-X6afUd?usp=sharing)
-- YouTube Video Demonstration (https://studio.youtube.com/video/dfTLfJbnRec/edit)
+- YouTube Video Demonstration (https://youtu.be/dfTLfJbnRec?si=oVI80eF-kD2eJyTp)
 
  ✅ How to Run
 ```bash
